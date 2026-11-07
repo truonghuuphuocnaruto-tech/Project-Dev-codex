@@ -1,0 +1,7 @@
+node_modules/
+dist/
+.empryo/
+TakWS-main/
+TakWS-patched/
+TakWS-main.zip
+.DS_Store
